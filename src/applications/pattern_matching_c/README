@@ -1,0 +1,6 @@
+
+pm.c is the C file that gets feed into the slicer.
+
+result.pws is the circuit file produced by the slicer.
+
+result.c is the "local" computation produced by the slicer, which is probably not human readable yet...

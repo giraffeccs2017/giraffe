@@ -1,0 +1,8 @@
+The files are generated from running the tool
+against ../pyramids.c
+
+What pyramids.c is:
+the pyramids.c is currently generated manually.
+The pws files are generated automatically.
+The out {*.pws} signifies the part of the computation that
+is outsourced, other parts are executed locally by the verifier.
